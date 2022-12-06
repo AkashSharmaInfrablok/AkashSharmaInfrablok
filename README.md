@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Akash Sharma
 - 👀 I’m interested in DevOps
-- 🌱  I’m currently learning AWS Services like CloudFormation, ECS, Jenkins
+- 🌱  I’m currently learning AWS Services like CloudFormation, ECS, AWS Pipeline
 - 📫 You can connect with me through social media platforms.
 - ✨ Twitter - akkivats777
 
